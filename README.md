@@ -1,5 +1,5 @@
 # Prueba tecnica Growists
-Debes tener bun para correr esto
+Debes tener bun para correr esto, puede correr sin los types pero si el vscode no te lo marca dale un `bun i`
 ### Para la aplicacion CLI
 ```bash
 bun cli.js
